@@ -1,6 +1,5 @@
 import Tkinter as tk
 import MySQLdb
-import webbrowser as localhost
 from PIL import ImageTk, Image
 from user  import MainApp
 from admin import admin
@@ -35,7 +34,7 @@ class login:
         self.status.set(u"Enter Username and Password")
 
         self.bot=tk.Label(self.frame, text = "Customs Management System \nalias\n\nProject Amigo (Copyright 2016)", fg="red", bg="blue", font="Comic\ Sans\ Ms 25 ", width=30).pack(pady=5)
-        localhost.open("http://localhost/phpmyadmin")
+
     def login(self):
     	try:
     		self.db= MySQLdb.connect("127.0.0.1", "root", "root", "customs")
