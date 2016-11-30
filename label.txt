@@ -1,0 +1,200 @@
+					Customs Management
+					  Project Amigo
+
+Labels Generated on 						: 2016-11-29 12:21:25
+-----------------------------------------------------------------------------------
+
+MANIFEST 			: 0648			|
+CARRIED BY 			: FedEx               	| Recepient Signature
+Bill Number 		: 9352			|
+Date 				: 2016-11-14		| Contact Number : 
+Country 			: India               	|
+Bill amount 		: INR   90.20         	| Customs Officer Signature
+From Port 			: Vishakhapatnum      	|
+To Port 			: Chennai             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 0655			|
+CARRIED BY 			: Bluedart            	| Recepient Signature
+Bill Number 		: 9345			|
+Date 				: 2016-11-28		| Contact Number : 
+Country 			: Sri Lanka           	|
+Bill amount 		: INR 5547.63         	| Customs Officer Signature
+From Port 			: Mumbai              	|
+To Port 			: Bahamas             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 0858			|
+CARRIED BY 			: Indian Post         	| Recepient Signature
+Bill Number 		: 9142			|
+Date 				: 2016-11-14		| Contact Number : 
+Country 			: India               	|
+Bill amount 		: INR   90.20         	| Customs Officer Signature
+From Port 			: Mumbai              	|
+To Port 			: Chennai             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 1931			|
+CARRIED BY 			: FedEx               	| Recepient Signature
+Bill Number 		: 8069			|
+Date 				: 2016-11-28		| Contact Number : 
+Country 			: USA                 	|
+Bill amount 		: INR 8488.12         	| Customs Officer Signature
+From Port 			: Srirangapatna       	|
+To Port 			: Florida             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 3873			|
+CARRIED BY 			: Amazon Delivery     	| Recepient Signature
+Bill Number 		: 6127			|
+Date 				: 2016-11-28		| Contact Number : 
+Country 			: Sri Lanka           	|
+Bill amount 		: INR 3295.27         	| Customs Officer Signature
+From Port 			: Montana             	|
+To Port 			: Srirangapatna       	| Seal- CBEC, India
+
+-----------------------------------------------------------------------------------
+
+MANIFEST 			: 3925			|
+CARRIED BY 			: FedEx               	| Recepient Signature
+Bill Number 		: 6075			|
+Date 				: 2016-11-14		| Contact Number : 
+Country 			: India               	|
+Bill amount 		: INR  130.36         	| Customs Officer Signature
+From Port 			: Howraw              	|
+To Port 			: Vishakhapatnum      	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 4301			|
+CARRIED BY 			: FedEx               	| Recepient Signature
+Bill Number 		: 5699			|
+Date 				: 2016-11-27		| Contact Number : 
+Country 			: USA                 	|
+Bill amount 		: INR 8488.12         	| Customs Officer Signature
+From Port 			: Mumbai              	|
+To Port 			: Montana             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 4304			|
+CARRIED BY 			: DTDC                	| Recepient Signature
+Bill Number 		: 5696			|
+Date 				: 2016-11-28		| Contact Number : 
+Country 			: India               	|
+Bill amount 		: INR 4763.64         	| Customs Officer Signature
+From Port 			: Mumbai              	|
+To Port 			: Montana             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 4378			|
+CARRIED BY 			: Indian Post         	| Recepient Signature
+Bill Number 		: 5622			|
+Date 				: 2016-11-13		| Contact Number : 
+Country 			: India               	|
+Bill amount 		: INR   90.20         	| Customs Officer Signature
+From Port 			: Mumbai              	|
+To Port 			: Vishakhapatnum      	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 4812			|
+CARRIED BY 			: Indian Post         	| Recepient Signature
+Bill Number 		: 5188			|
+Date 				: 2016-11-23		| Contact Number : 
+Country 			: USA                 	|
+Bill amount 		: INR 8488.12         	| Customs Officer Signature
+From Port 			: Srirangapatna       	|
+To Port 			: Florida             	| Seal- CBEC, India
+
+-----------------------------------------------------------------------------------
+
+
+
+
+
+MANIFEST 			: 5023			|
+CARRIED BY 			: DTDC                	| Recepient Signature
+Bill Number 		: 4977			|
+Date 				: 2016-11-25		| Contact Number : 
+Country 			: India               	|
+Bill amount 		: INR   90.20         	| Customs Officer Signature
+From Port 			: Howraw              	|
+To Port 			: Mumbai              	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 5221			|
+CARRIED BY 			: Amazon Delivery     	| Recepient Signature
+Bill Number 		: 4779			|
+Date 				: 2016-11-28		| Contact Number : 
+Country 			: India               	|
+Bill amount 		: INR 2713.13         	| Customs Officer Signature
+From Port 			: Montana             	|
+To Port 			: Srirangapatna       	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 6093			|
+CARRIED BY 			: Amazon Delivery     	| Recepient Signature
+Bill Number 		: 3907			|
+Date 				: 2016-11-25		| Contact Number : 
+Country 			: India               	|
+Bill amount 		: INR   90.20         	| Customs Officer Signature
+From Port 			: Vishakhapatnum      	|
+To Port 			: Chennai             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 6258			|
+CARRIED BY 			: Amazon Delivery     	| Recepient Signature
+Bill Number 		: 3742			|
+Date 				: 2016-11-14		| Contact Number : 
+Country 			: USA                 	|
+Bill amount 		: INR 14770.50        	| Customs Officer Signature
+From Port 			: Buffalo             	|
+To Port 			: Chennai             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 6996			|
+CARRIED BY 			: Amazon Delivery     	| Recepient Signature
+Bill Number 		: 3004			|
+Date 				: 2016-11-28		| Contact Number : 
+Country 			: USA                 	|
+Bill amount 		: INR 8488.12         	| Customs Officer Signature
+From Port 			: Bahamas             	|
+To Port 			: Buffalo             	| Seal- CBEC, India
+
+-----------------------------------------------------------------------------------
+
+
+
+
+
+MANIFEST 			: 7060			|
+CARRIED BY 			: Amazon Delivery     	| Recepient Signature
+Bill Number 		: 2940			|
+Date 				: 2016-11-27		| Contact Number : 
+Country 			: USA                 	|
+Bill amount 		: INR 8488.12         	| Customs Officer Signature
+From Port 			: Buffalo             	|
+To Port 			: Bahamas             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------
+
+MANIFEST 			: 9116			|
+CARRIED BY 			: Amazon Delivery     	| Recepient Signature
+Bill Number 		: 0884			|
+Date 				: 2016-11-13		| Contact Number : 
+Country 			: India               	|
+Bill amount 		: INR  130.36         	| Customs Officer Signature
+From Port 			: Srirangapatna       	|
+To Port 			: Chennai             	| Seal- CBEC, India
+
+--------------------------------- -X Tear Here X- ---------------------------------

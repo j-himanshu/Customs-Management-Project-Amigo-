@@ -1,0 +1,22 @@
+
+2016-11-14 10:21:22.319000: System Admin/Custom officer,
+	Malicious product manifest generation tried. 
+Respond immediately
+2016-11-14 10:32:20.533000: System Admin/Custom officer,
+	Malicious product manifest generation tried. 
+Respond immediately
+2016-11-25 15:45:03.439273: System Admin/Custom officer,
+	Malicious product manifest generation tried. 
+Respond immediately
+2016-11-25 21:37:41.991000: System Admin/Custom officer,
+	Malicious product manifest generation tried. 
+Respond immediately
+2016-11-25 22:00:21.937000: System Admin/Custom officer,
+	Malicious product manifest generation tried. 
+Respond immediately
+2016-11-25 22:00:32.870000: System Admin/Custom officer,
+	Malicious product manifest generation tried. 
+Respond immediately
+2016-11-29 12:08:21.694725: System Admin/Custom officer,
+	Malicious product manifest generation tried. 
+Respond immediately
